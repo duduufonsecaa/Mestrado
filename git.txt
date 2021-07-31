@@ -1,0 +1,12 @@
+ADICIONANDO ARQUIVO NO GIT:
+
+git add "file"
+
+git status
+
+git commit -m "comentario"
+
+git push origin main
+
+
+git rebase -i HEAD~n
