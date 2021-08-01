@@ -9,4 +9,16 @@ git commit -m "comentario"
 git push origin main
 
 
-git rebase -i HEAD~n
+git rebase -i hash~n
+
+git log --oneline
+
+git log arq
+
+git diff (sem commitar)
+
+git diff --staged (commitado)
+
+git rm --cached arq
+
+git show hash
